@@ -8,7 +8,7 @@ import Arrs from "./arrs";
 import ComingSoonForm from "./coming-soon-form";
 import Link from "next/link";
 
-export default function Page() {
+export default function Home() {
   return (
     <main className="min-h-dvh w-dvw bg-background md:grid md:grid-rows-2">
       <section
