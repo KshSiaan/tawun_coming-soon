@@ -3,8 +3,8 @@ import "./globals.css";
 import { ReactLenis } from "@/lib/lenis";
 import { App } from "antd";
 export const metadata: Metadata = {
-  title: "Tawun",
-  description: "tawun  description",
+  title: "Tawun - Coming soon",
+  description: "Tawun Coming soon",
 };
 
 export default function RootLayout({
